@@ -16,6 +16,8 @@ Pull requests welcome! Or add an issue, or tweet
 ### Ballroom [🎥](https://www.youtube.com/watch?v=5JDtLnUbF6Q)
 
 - [ITERATORS FOR CURIOUS MINDS](https://pojman.cz/2019/iterators/), [Miloslav Pojman](https://twitter.com/MiloslavPojman), [🎥](https://youtu.be/5JDtLnUbF6Q?t=20213)
+- [I TEACH, THEREFORE I LEARN](https://www.slideshare.net/JuhaMattiSantala/i-teach-therefore-i-learn), [Juha-Matti Santala](https://twitter.com/hamatti), [🎥](https://youtu.be/5JDtLnUbF6Q?t=8399)
+- [LIGHTNING TALK: 7 DAYS TO OSTRAVA](https://www.slideshare.net/JuhaMattiSantala/pycon-cz-2019-lightning-talk-7-days-to-ostrava), [Juha-Matti Santala](https://twitter.com/hamatti), [🎥](https://youtu.be/5JDtLnUbF6Q?t=31057)
 
 ### Club [🎥](https://www.youtube.com/watch?v=mniWotxI4C8)
 
