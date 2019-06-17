@@ -21,13 +21,13 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### Club [🎥](https://www.youtube.com/watch?v=mniWotxI4C8)
 
-- [JUPYTER NOTEBOOKS: FRIENDS OR FOES?](https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes), [Tania Allard](https://twitter.com/ixek)
+- [JUPYTER NOTEBOOKS: FRIENDS OR FOES?](https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes), [Tania Allard](https://twitter.com/ixek) [🎥](https://youtu.be/mniWotxI4C8?t=0)
 
-- [TIME SERIES FORECASTING IN PYTHON](http://bit.ly/PyConCZ2019), [Petr Simecek](https://twitter.com/simecek)
+- [TIME SERIES FORECASTING IN PYTHON](http://bit.ly/PyConCZ2019), [Petr Simecek] [🎥](https://twitter.com/simecek) (https://youtu.be/mniWotxI4C8?t=2120)
 
-- [AN INTRODUCTION TO WORD EMBEDDINGS](https://speakerdeck.com/galuhsahid/introduction-to-word-embeddings), [Galuh Sahid](https://twitter.com/galuhsahid)
+- [AN INTRODUCTION TO WORD EMBEDDINGS](https://speakerdeck.com/galuhsahid/introduction-to-word-embeddings), [Galuh Sahid](https://twitter.com/galuhsahid) [🎥](https://youtu.be/mniWotxI4C8?t=9262)
 
-- [PRACTICAL GUIDE TO DESIGNING IMPLANTS FOR PANDAS](https://janpipek.github.io/talks/pycon-cz_2019/#/), [Jan Pipek](https://twitter.com/JanPipek)
+- [PRACTICAL GUIDE TO DESIGNING IMPLANTS FOR PANDAS](https://janpipek.github.io/talks/pycon-cz_2019/#/), [Jan Pipek](https://twitter.com/JanPipek) [🎥](https://youtu.be/mniWotxI4C8?t=11656)
 
 
 ## Day 2
