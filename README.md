@@ -38,5 +38,5 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### Club [🎥](https://www.youtube.com/watch?v=P3X0n-a0_hI)
 
-- [CURIOUS ABOUT A NEW PLACE? GET THERE VIA OPEN STREET MAPS API](https://github.com/vojtech-filipec/PyConCZ-OSM-API), [Vojta Filipec](https://github.com/vojtech-filipec)
+- [CURIOUS ABOUT A NEW PLACE? GET THERE VIA OPEN STREET MAPS API](https://github.com/vojtech-filipec/PyConCZ-OSM-API), [Vojta Filipec](https://github.com/vojtech-filipec), [🎥](https://youtu.be/P3X0n-a0_hI?t=16541)
 
