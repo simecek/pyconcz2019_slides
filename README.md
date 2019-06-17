@@ -34,7 +34,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### Ballroom [🎥](https://www.youtube.com/watch?v=3ci5jFykVxo)
 
-- [ON THE EDGE OF LEADERSHIP](https://mislavcimpersak.github.io/on-the-edge-of-leadership-talk/#/), [Mislav Cimperšak](https://twitter.com/mislavcimpersak)
+- [ON THE EDGE OF LEADERSHIP](https://mislavcimpersak.github.io/on-the-edge-of-leadership-talk/#/), [Mislav Cimperšak](https://twitter.com/mislavcimpersak), [🎥](https://youtu.be/3ci5jFykVxo?t=13689)
 
 ### Club [🎥](https://www.youtube.com/watch?v=P3X0n-a0_hI)
 
