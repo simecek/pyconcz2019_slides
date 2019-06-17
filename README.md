@@ -23,7 +23,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [JUPYTER NOTEBOOKS: FRIENDS OR FOES?](https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes), [Tania Allard](https://twitter.com/ixek) [🎥](https://youtu.be/mniWotxI4C8?t=0)
 
-- [TIME SERIES FORECASTING IN PYTHON](http://bit.ly/PyConCZ2019), [Petr Simecek] [🎥](https://twitter.com/simecek) (https://youtu.be/mniWotxI4C8?t=2120)
+- [TIME SERIES FORECASTING IN PYTHON](http://bit.ly/PyConCZ2019), [Petr Simecek](https://twitter.com/simecek)  [🎥](https://youtu.be/mniWotxI4C8?t=2120)
 
 - [AN INTRODUCTION TO WORD EMBEDDINGS](https://speakerdeck.com/galuhsahid/introduction-to-word-embeddings), [Galuh Sahid](https://twitter.com/galuhsahid) [🎥](https://youtu.be/mniWotxI4C8?t=9262)
 
