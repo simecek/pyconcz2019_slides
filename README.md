@@ -41,3 +41,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [CURIOUS ABOUT A NEW PLACE? GET THERE VIA OPEN STREET MAPS API](https://github.com/vojtech-filipec/PyConCZ-OSM-API), [Vojta Filipec](https://github.com/vojtech-filipec), [🎥](https://youtu.be/P3X0n-a0_hI?t=16541)
 
+## Workshops
+
+- [WEB SCRAPING WITH SCRAPY](https://github.com/itsx/scrapy-workshop-pycon2019), [Tomáš Bartek](https://github.com/itsx)
+
